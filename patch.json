@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "title": "The Next Battle Priston Tale",
+  "patch_url": "",
+  "release_date": "03/10/2026",
+  "changelog": [
+    "Lançamento Oficial The Next Battle",
+    "Novo Sistema: Ímã de Ouro Automático implementado",
+    "Correção de estabilidade no Baú e Distribuidor",
+    "Otimizações de conexão e segurança"
+  ]
+}
