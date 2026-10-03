@@ -4,6 +4,7 @@
   "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.1/game.zip",
   "release_date": "03/10/2026",
   "changelog": [
-    "Correção na arma de quest 4x do Mecânico ",
-      ]
+    "Correção na arma de quest 4x do Mecânico (Head Cutter: 0/5)",
+    "Melhoria no reconhecimento de combate com garras"
+  ]
 }
