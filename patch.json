@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.5/game.zip",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.6/game.zip",
   "release_date": "03/10/2026",
   "changelog": [
-    "Correção de desconexão (AntiDDOS) e crash no término da Quest de Rank-up Tier 3",
-    "Substituição de pacotes legados pelo envio criptografado moderno da CQuestGame",
-    "Finalização estável do avanço para Tier 3 com remoção limpa do item e salvamento"
+    "Correção na contagem de monstros para a Quest do Nível 60 (Tier 4 / Muffin)",
+    "Integração do rastreamento de monstros de quests clássicas ao despachante nativo do motor de jogo",
+    "Suporte a contagem de monstros em grupo/party para progresso da missão"
   ]
 }
