@@ -5,7 +5,8 @@
   "release_date": "03/10/2026",
   "changelog": [
     "Correção na contagem de monstros para a Quest do Nível 60 (Tier 4 / Muffin)",
-    "Integração do rastreamento de monstros de quests clássicas ao despachante nativo do motor de jogo",
+    "Integração do rastreamento de monstros de 
+    quests clássicas ao despachante nativo do motor de jogo",
     "Suporte a contagem de monstros em grupo/party para progresso da missão"
   ]
 }
