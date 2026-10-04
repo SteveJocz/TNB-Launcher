@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.3/game.zip",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.5/game.zip",
   "release_date": "03/10/2026",
   "changelog": [
-    "Correção de sincronização do Rank-up no Mestre de Habilidades (Tier 3)",
-    "Liberação automática do botão Rank-up ao atingir maturação da arma de quest",
-    "Melhorias na entrega e finalização da Quest de Nível 40"
+    "Correção de desconexão (AntiDDOS) e crash no término da Quest de Rank-up Tier 3",
+    "Substituição de pacotes legados pelo envio criptografado moderno da CQuestGame",
+    "Finalização estável do avanço para Tier 3 com remoção limpa do item e salvamento"
   ]
 }
