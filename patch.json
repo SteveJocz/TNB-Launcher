@@ -1,12 +1,10 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.9/game.zip",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.10/game.zip",
   "release_date": "08/10/2026",
   "changelog": [
-    "Correção e sincronização completa do Core de Retorno (Core-Azul)",
-    "Adicionadas as cidades de Ricarten e Pillai no início da lista de teleporte",
-    "Organização completa de todas as páginas de mapas (iniciais, intermediários, calabouços, torres e áreas avançadas)"
+    "Ajuste visual no Core de Retorno: removidas linhas e opções vazias não utilizadas da Página 5 e 6",
+    "Correção e sincronização completa do Core de Retorno com cidades de Ricarten e Pillai"
   ]
 }
- 
