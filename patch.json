@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.9",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.6/game.zip",
-  "release_date": "03/10/2026",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.9/game.zip",
+  "release_date": "08/10/2026",
   "changelog": [
-    "Correção na contagem de monstros para a Quest do Nível 60 (Tier 4 / Muffin)",
-    "Integração do rastreamento de monstros de quests clássicas ao despachante nativo do motor de jogo",
-    "Suporte a contagem de monstros em grupo/party para progresso da missão"
+    "Correção e sincronização completa do Core de Retorno (Core-Azul)",
+    "Adicionadas as cidades de Ricarten e Pillai no início da lista de teleporte",
+    "Organização completa de todas as páginas de mapas (iniciais, intermediários, calabouços, torres e áreas avançadas)"
   ]
 }
