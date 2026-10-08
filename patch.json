@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.14/game.zip",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.15/game.zip",
   "release_date": "08/10/2026",
   "changelog": [
-    "Novo nome oficial: Core-Azul Ancestral",
-    "Adicionada caixa de confirmação nativa (Sim/Não) ao clicar em Mover para evitar teleporte acidental",
-    "Cabeçalho da janela, título e informações atualizados com Core-Azul Ancestral"
+    "Limpeza completa da placa superior da janela: removidas todas as sobreposições de letras fantasmas atrás de CORE-AZUL ANCESTRAL",
+    "Atualizado o nome do item no inventário e no banco de itens (items.dat) para 'Core-Azul Ancestral'",
+    "Descrição do item no inventário traduzida para Português"
   ]
 }
