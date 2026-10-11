@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "title": "The Next Battle Priston Tale",
-  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.34/game.zip",
-  "release_date": "09/10/2026",
+  "patch_url": "https://github.com/SteveJocz/TNB-Launcher/releases/download/v1.0.35/game.zip",
+  "release_date": "11/10/2026",
   "changelog": [
-    "Restauracao do ciclo de vida, spawn e visibilidade original de monstros do repositorio base"
+    "Correcao e restauracao do fluxo original das Quests de Rank Up (Tier 2 e Tier 3) no Mestre de Habilidades e coleta de itens de missao"
   ]
 }
